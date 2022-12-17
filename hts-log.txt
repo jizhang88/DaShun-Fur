@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 17 Dec 2022 16:31:20 at http://dashunfur.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://dashunfur.com -O1 "C:\My Web Sites\dashunfur.local wordpress\dasgun" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:33:03	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-json/ (from dashunfur.com/)
+16:33:08	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/about/ (from dashunfur.com/)
+16:33:38	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/uploads/2022/12/3-2.jpg (from dashunfur.com/)
+16:33:38	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/uploads/2022/12/3-3.jpg (from dashunfur.com/)
+16:33:40	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 (from dashunfur.com/)
+16:33:40	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-includes/js/underscore.min.js?ver=1.13.4 (from dashunfur.com/)
+16:33:42	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.8 (from dashunfur.com/)
+16:33:43	Warning: 	File not parsed, looks like binary: dashunfur.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0
+16:33:43	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0 (from dashunfur.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0)
+16:33:44	Warning: 	File not parsed, looks like binary: dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+16:33:44	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 (from dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.9.1)
+16:33:44	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg (from dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.9.1)
+16:33:45	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot? (from dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.9.1)
+16:34:14	Warning: 	File not parsed, looks like binary: dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+16:34:20	Warning: 	Moved Permanently for dashunfur.com/?p=529
+16:34:20	Warning: 	File has moved from dashunfur.com/?p=529 to http://dashunfur.com/product-2/
+16:34:20	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/uploads/elementor/css/post-530.css?ver=1671309201 (from dashunfur.com/projects/)
+16:34:20	Warning: 	Moved Permanently for dashunfur.com/?p=530
+16:34:20	Warning: 	File has moved from dashunfur.com/?p=530 to http://dashunfur.com/projects/
+16:34:20	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdashunfur.com%2Fprojects%2F&format=xml (from dashunfur.com/projects/)
+16:34:20	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/uploads/2018/11/project-3.jpg (from dashunfur.com/projects/)
+16:34:21	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/uploads/elementor/css/post-531.css?ver=1671309206 (from dashunfur.com/contact/)
+16:34:21	Warning: 	Moved Permanently for dashunfur.com/?p=531
+16:34:21	Warning: 	File has moved from dashunfur.com/?p=531 to http://dashunfur.com/contact/
+16:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0 (from dashunfur.com/contact/)
+16:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 (from dashunfur.com/)
+16:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.8 (from dashunfur.com/)
+16:34:23	Warning: 	Retry after error -4 (No data (connection closed)) at link dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 (from dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.9.1)
+16:34:25	Warning: 	Moved Permanently for dashunfur.com/?p=528
+16:34:25	Warning: 	File has moved from dashunfur.com/?p=528 to http://dashunfur.com/about/
+16:34:38	Warning: 	File not parsed, looks like binary: dashunfur.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 45 seconds : 128 links scanned, 104 files written (9042819 bytes overall) [7767500 bytes received at 34522 bytes/sec], 1546667 bytes transferred using HTTP compression in 41 files, ratio 15%, 3.1 requests per connection
+(No errors, 31 warnings, 0 messages)
